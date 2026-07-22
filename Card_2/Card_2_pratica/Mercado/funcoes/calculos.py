@@ -1,0 +1,3 @@
+# Funções de cálculo - Separada apenas por gosto, mas poderia estar em outro arquivo...
+def calcular_valor_total(estoque):
+    return sum(p.preco * p.quantidade for p in estoque.produtos) #Aqui o sum é uma função que descobri, nativa do phyton, para somar tudo de uma vez. Equivale a um for, mas bem mais simples.
