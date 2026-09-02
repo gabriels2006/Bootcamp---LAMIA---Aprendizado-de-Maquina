@@ -2,11 +2,9 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/Card_2/Card_2_pratica/Mercado" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
-      <excludeFolder url="file://$MODULE_DIR$/Card_5/Aula/.venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.14 (Bootcamp---LAMIA---Aprendizado-de-Maquina)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.14 ( Statistics and Probability Refresher, and Python Practice)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
